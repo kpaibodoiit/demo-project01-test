@@ -1,0 +1,1 @@
+Tạo 1 project từ local ( hoặc 1 project đã có sắn, đấy toàn bộ project từ local lên github )
